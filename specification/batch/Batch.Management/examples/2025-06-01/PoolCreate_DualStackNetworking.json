@@ -22,7 +22,7 @@
                 "frontendPortRangeStart": 40000,
                 "frontendPortRangeEnd": 40500,
                 "name": "sshpool",
-                "protocol": "tcp",
+                "protocol": "TCP",
                 "networkSecurityGroupRules": [
                   {
                     "access": "Allow",
